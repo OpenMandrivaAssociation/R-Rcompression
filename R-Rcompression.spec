@@ -4,7 +4,7 @@
 Name:             R-%{packname}
 Version:          0.93_2
 Release:          1
-Summary:          In-memory decompression for GNU zip and bzip2 formats.
+Summary:          In-memory decompression for GNU zip and bzip2 formats
 Group:            Sciences/Mathematics
 License:          zlib. See LICENSE.
 URL:              http://www.omegahat.org/Rcompression/
