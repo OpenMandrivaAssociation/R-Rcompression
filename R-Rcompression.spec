@@ -2,7 +2,7 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          0.93_2
+Version:          0.93.2
 Release:          1
 Summary:          In-memory decompression for GNU zip and bzip2 formats
 Group:            Sciences/Mathematics
@@ -52,4 +52,5 @@ rm -f %{buildroot}%{rlibdir}/R.css
 + Revision: 775542
 - Import R-Rcompression
 - Import R-Rcompression
+
 
