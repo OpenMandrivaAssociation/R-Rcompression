@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.93_2
-Release:          1
+Release:          2
 Summary:          In-memory decompression for GNU zip and bzip2 formats
 Group:            Sciences/Mathematics
 License:          zlib. See LICENSE.
