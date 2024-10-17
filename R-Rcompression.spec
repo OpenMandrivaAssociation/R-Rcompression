@@ -7,7 +7,7 @@ Release:          3
 Summary:          In-memory decompression for GNU zip and bzip2 formats
 Group:            Sciences/Mathematics
 License:          zlib. See LICENSE.
-URL:              http://www.omegahat.org/Rcompression/
+URL:              https://www.omegahat.org/Rcompression/
 Source0:          http://www.omegahat.org/Rcompression/Rcompression_0.93-2.tar.gz
 Requires:         R-methods 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods
